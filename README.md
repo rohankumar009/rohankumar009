@@ -18,10 +18,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
 </div>
 
+## Connect with me:
+<a href="https://www.linkedin.com/in/rohankumar09/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" /></a>
+<a href="kumarrohan7110@gmail.com"><img align="center" src="https://github.com/rohankumar009/rohankumar009/assets/96805095/a308482e-bba8-410e-a524-5d04f2672cbd" title="Mail" alt="Mail" width="40" height="50" /></a>
 
-#### [LinkedIn](https://www.linkedin.com/in/rohankumar09/) - [Email](mailto:kumarrohan7110@gmail.com)
+
 <!--
 **rohankumar009/rohankumar009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### [LinkedIn](https://www.linkedin.com/in/rohankumar09/) - [Email](mailto:kumarrohan7110@gmail.com)
 
 Here are some ideas to get you started:
 
