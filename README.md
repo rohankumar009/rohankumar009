@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
 
-- 👨‍💻 I’m currently working on- my [website](https://rohankumar009.github.io/Rohan-Website.github.io/)
+- 👨‍💻 I’m currently working on- my [website](https://rohankumar009.github.io/RohanKumar.github.io/)
 - 🌱 I’m currently learning Internet Programming, Advanced Algorithms, Computational Biology, and Cybersecurity
 - 📚 I’m currently studying- Computer Science & Data Science @ University of Minnesota
 - 🤝 I’m looking to collaborate on- interesting ideas and cool projects
