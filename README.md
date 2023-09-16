@@ -1,4 +1,4 @@
-### Hi there, I'm Rohan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
+![image](https://github.com/rohankumar009/rohankumar009/assets/96805095/6629d08c-eb9f-4c23-980b-ec949920c027)### Hi there, I'm Rohan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
 
 - 👨‍💻 I’m currently working on- my [website](https://rohankumar009.github.io/RohanKumar.github.io/)
 - 🌱 I’m currently learning Internet Programming, Advanced Algorithms, Computational Biology, and Cybersecurity
@@ -22,8 +22,15 @@
 ## 📊 Top Languages
   ![Rohan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumar009&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
 
-## Work Experience
-Software Development Undergraduate Teaching Assistant Aug 2023 - Jan 2024
+## 👨‍💻 Work Experience
+-  Software Development Undergraduate Teaching Assistant - Aug 2023 to Present
+-  Bioproducts & Biosystems Engineering Undergraduate Teaching Assistant - Aug 2023 to Present
+-  Computer Science Summer Intern @ UMN - May 2022 to Aug 2022
+-  Tutor/Teaching Assistant - Oct 2020 to Mar 2021
+-  High School Intern - Jun 2020 to Aug 2020
+
+
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rohankumar09/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" /></a>
 <a href="https://discord.gg/SVO#5829"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SVO#5829" height="48" width="48" /></a>
