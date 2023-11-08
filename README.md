@@ -23,37 +23,14 @@ Hi there, I'm Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
   ![Rohan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumar009&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
 
 ## 👨‍💻 Work Experience
--  Software Development Undergraduate Teaching Assistant - Aug 2023 to Present
--  Bioproducts & Biosystems Engineering Undergraduate Teaching Assistant - Aug 2023 to Present
--  Computer Science Summer Intern @ UMN - May 2022 to Aug 2022
--  Tutor/Teaching Assistant - Oct 2020 to Mar 2021
--  High School Intern - Jun 2020 to Aug 2020
+-  Software Development Undergraduate Teaching Assistant @ UMN CSE - Aug 2023 to Present
+-  Bioproducts & Biosystems Engineering Undergraduate Teaching Assistant @ UMN CSE - Aug 2023 to Present
+-  Data Analyst Intern @ UMN - May 2022 to Aug 2022
+-  Tutor/Teaching Assistant @ CHS - Oct 2020 to Mar 2021
+-  High School Intern @ Genesys Works - Jun 2020 to Aug 2020
 
 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rohankumar09/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" /></a>
 <a href="https://discord.gg/SVO#5829"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SVO#5829" height="48" width="48" /></a>
-
-
-
-
-
-<!--
-**rohankumar009/rohankumar009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-
-#### [LinkedIn](https://www.linkedin.com/in/rohankumar09/) - [Email](mailto:kumarrohan7110@gmail.com)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
