@@ -1,7 +1,7 @@
 Hi there, I'm Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
 
 - 👨‍💻 I’m currently working on- my [MediHealth-Analytics 🔬](https://github.com/rohankumar009/MediHealth-Analytics.git)
-- 🌱 I’m currently learning Internet Programming, Advanced Algorithms, Computational Biology, Cybersecurity, and more!
+- 🌱 I’m currently learning Internet Programming, Advanced Algorithms, Computational Biology, Cybersecurity, Cloud Infrastructure, and more!
 - 📚 I’m currently studying- Computer Science & Data Science with a minor in Statistics @ University of Minnesota - Twin Cities
 - 🤝 I’m looking to collaborate on- interesting ideas and cool projects
 
