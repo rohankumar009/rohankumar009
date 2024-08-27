@@ -1,6 +1,6 @@
 Hi there, I'm Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
 
-- 👨‍💻 I’m currently working on- my [MediHealth-Analytics 🔬](https://github.com/rohankumar009/MediHealth-Analytics.git)
+- 👨‍💻 I’m currently working on- PlayerSeek
 - 🌱 I’m currently learning User Interface Design, Machine Learning, Operating Systems, Database Management, Functional Programming, Social Computing, and more!
 - 📚 I’m currently studying- Computer Science & Data Science with a minor in Statistics @ University of Minnesota - Twin Cities
 - 🤝 I’m looking to collaborate on- interesting ideas and cool projects
