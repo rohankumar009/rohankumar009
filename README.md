@@ -26,7 +26,7 @@ Hi there, I'm Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
   ![Rohan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumar009&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
 
 ## 👨‍💻 Work Experience
--  Software Development Teaching Assistant @ UMN CSE - Aug 2023 to Present
+-  Software Development & Data Structures Teaching Assistant @ UMN CSE - Aug 2023 to Present
 -  Bioproducts & Biosystems Engineering Teaching Assistant @ UMN CSE - Aug 2023 to Present
 -  Data Analyst Intern @ UMN - May 2022 to Aug 2022
 -  Tutor/Teaching Assistant @ CHS - Oct 2020 to Mar 2021
