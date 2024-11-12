@@ -36,4 +36,3 @@ Hi there, I'm Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rohankumar09/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" /></a>
-<a href="https://discord.gg/SVO#5829"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SVO#5829" height="48" width="48" /></a>
